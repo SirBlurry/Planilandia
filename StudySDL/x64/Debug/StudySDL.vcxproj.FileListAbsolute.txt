@@ -1,0 +1,2 @@
+D:\julian\C++\StudySDL\x64\Debug\StudySDL.exe
+D:\julian\C++\StudySDL\x64\Debug\StudySDL.pdb

@@ -1,1 +1,3 @@
-Hello World
+El sacrificio para el buen Adidier.
+
+Fue toda una odisea estudiar computo gráfico con SDL...
